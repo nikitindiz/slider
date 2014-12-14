@@ -2,7 +2,7 @@ $(document).ready(function(){
 
   function log_debug(debug_data)
   {
-    $('div.debug').append('<p>'+debug_data+'</p>');
+    // $('div.debug').append('<p>'+debug_data+'</p>');
   }
 
   // Detect browser
